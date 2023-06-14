@@ -1,0 +1,13 @@
+.idea
+venv
+build
+images
+dist
+image_monitor.spec
+script_scheduler.spec
+src/app.log
+src/monitor.log
+src/__pycache__
+test/excels
+test/*.json
+test/tmp

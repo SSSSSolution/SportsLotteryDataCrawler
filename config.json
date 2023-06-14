@@ -1,0 +1,11 @@
+{
+  "weekday": {
+    "start_time": "11:00",
+    "end_time": "21:35"
+  },
+  "weekend": {
+    "start_time": "11:00",
+    "end_time": "22:35"
+  },
+  "interval_minutes": 20
+}
